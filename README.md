@@ -1,13 +1,12 @@
 ## COVID-Mobility-Poland
 
-Project prepared for Data Driven Reasearch - part of Digital Economy Education path co-organised by Warsaw Faculty of Economics and Google.<br />
-Subject: Visualisation &amp; analysis of both global and region-specific trends in mobility during COVID-19 in Poland
+Project prepared in the summer semester 2022 for Digital Economy Education path co-organised by Warsaw Faculty of Economics and Google.<br />
+Subject: Visualisation &amp; analysis of both global and region-specific trends in mobility during COVID 19 in Poland
 
 Repository contains 3 elements: utilised Python code, .pdf report with visualisations and dynamic cartogram marking changes in mobility in retail sector on regional level.
 
 ## Mobility-related data sources:
-1) https://www.google.com/covid19/mobility/
-2) Global_mobility_report containing mobility data (source: https://www.google.com/covid19/mobility/?fbclid=IwAR0RXwUdoPpdzvM82VA6PaxgDZnuuxOskpJm9vEbKtvytsPirt7jutToflE), report with global data
+1) Global_mobility_report containing mobility data (source: https://www.google.com/covid19/mobility/?fbclid=IwAR0RXwUdoPpdzvM82VA6PaxgDZnuuxOskpJm9vEbKtvytsPirt7jutToflE), report with global data
 4) Stay-at-home_covid (source: https://ourworldindata.org/covid-stay-home-restrictions)
 5) WHO-COVID showing statistics on the course of the pandemic (number of new cases, number of deaths)
 
