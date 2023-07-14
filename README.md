@@ -19,9 +19,9 @@ There are two parts to the project:
 
 ## Exemplary plots 
 
-Percentage point change from the baselevel in mobility in retail sector (peak of infections in 2020):
+#### Percentage point change from the baselevel in mobility in retail sector (peak of infections in 2020):
 ![newplot (4)](https://github.com/jjfrackowiak/COVID-Mobility-Poland/assets/84077365/5890eea0-9e81-4c64-a515-33699da9e901)
 
 
-Percentage point change from the baselevel in mobility in retail sector (holidays in 2020):
+#### Percentage point change from the baselevel in mobility in retail sector (holidays in 2020):
 ![newplot (3)](https://github.com/jjfrackowiak/COVID-Mobility-Poland/assets/84077365/2f11d933-9f14-4120-ace3-3e976e1e3cc3)
