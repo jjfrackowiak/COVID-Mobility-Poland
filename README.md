@@ -1,2 +1,26 @@
-# COVID-Mobility-Poland
-Visualisation &amp; analysis of both global and region-specific trends in mobility during COVID-19 in Poland
+## COVID-Mobility-Poland
+
+Project prepared for Data Driven Reasearch - part of Digital Economy Education path co-organised by Warsaw Faculty of Economics and Google.
+Subject: Visualisation &amp; analysis of both global and region-specific trends in mobility during COVID-19 in Poland
+
+Repository contains 3 elements: utilised Python code, .pdf report with visualisations and dynamic cartogram marking changes in mobility in retail sector on regional level.
+
+## Mobility-related data sources:
+1) https://www.google.com/covid19/mobility/
+2) Global_mobility_report containing mobility data (source: https://www.google.com/covid19/mobility/?fbclid=IwAR0RXwUdoPpdzvM82VA6PaxgDZnuuxOskpJm9vEbKtvytsPirt7jutToflE), report with global data
+4) Stay-at-home_covid (source: https://ourworldindata.org/covid-stay-home-restrictions)
+5) WHO-COVID showing statistics on the course of the pandemic (number of new cases, number of deaths)
+
+Google lists mobility statistics in 6 areas: trade and recreation, grocery stores and pharmacies, parks, stations and stops, workplaces and places of residence. We assumed that the analysis of the first area will be the most interesting: trade and recreation (hereinafter: retail)
+
+There are two parts to the project:
+1) Analysis of the mutual relations of statistics at the Polish level, extended by an analysis of the relationship between data on infections and the severity of restrictions applied and mobility in shopping and entertainment facilities.
+2) Analysis of data on mobility in retail and entertainment facilities at the voivodeship level: Dynamic cartogram built using geojson library.
+
+## Exemplary plots 
+
+Percentage point change from the baselevel in mobility in retail sector (peak of infections in 2020):
+![newplot (2)](https://github.com/jjfrackowiak/COVID-Mobility-Poland/assets/84077365/af240380-9974-448d-b899-b77035731ade)
+
+Percentage point change from the baselevel in mobility in retail sector (holidays in 2020):
+![newplot (1)](https://github.com/jjfrackowiak/COVID-Mobility-Poland/assets/84077365/3e7bebf3-1131-4a7d-8bb6-54eb3077fcf7)
