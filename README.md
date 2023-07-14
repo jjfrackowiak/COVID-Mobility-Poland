@@ -10,6 +10,11 @@ Repository contains following elements:
 - data folder storing all data files except for sizeable 'Google_all.csv'
     - 'Google_all.csv' file can be downloaded from https://www.google.com/covid19/mobility/ and is unneccesary to create dynamic cartogram
       
+Google lists mobility statistics in 6 areas: trade and recreation, grocery stores and pharmacies, parks, stations and stops, workplaces and places of residence. We assumed that the analysis of the first area will be the most interesting: trade and recreation
+
+There are two parts to the project:
+1) Analysis of the mutual relations of statistics at the Polish level, extended by an analysis of the relationship between data on infections and the severity of restrictions applied and mobility in shopping and entertainment facilities
+2) Analysis of data on mobility in retail and entertainment facilities at the voivodeship level: Dynamic cartogram built using geojson library (defined in separate file: "Dynamic_cartogram.ipynb")
 
 ## Contents of 'data' folder
 1) Files of structure '*PL_Mobility.csv' containing obility statistics for three years of pandemics reported by Polish regulators
@@ -17,11 +22,6 @@ Repository contains following elements:
 3) 'WHO-COVID.csv file' containing statistics on the course of the pandemic (number of new cases, number of deaths)
 4) 'woj.geojson' file with coodinates of Poland administrative divisions (source: https://github.com/ppatrzyk/polska-geojson)
 
-Google lists mobility statistics in 6 areas: trade and recreation, grocery stores and pharmacies, parks, stations and stops, workplaces and places of residence. We assumed that the analysis of the first area will be the most interesting: trade and recreation
-
-There are two parts to the project:
-1) Analysis of the mutual relations of statistics at the Polish level, extended by an analysis of the relationship between data on infections and the severity of restrictions applied and mobility in shopping and entertainment facilities
-2) Analysis of data on mobility in retail and entertainment facilities at the voivodeship level: Dynamic cartogram built using geojson library (defined in separate file: "Dynamic_cartogram.ipynb")
 
 ## Exemplary frames from dynamic cartogram
 
