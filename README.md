@@ -17,7 +17,7 @@ There are two parts to the project:
 1) Analysis of the mutual relations of statistics at the Polish level, extended by an analysis of the relationship between data on infections and the severity of restrictions applied and mobility in shopping and entertainment facilities.
 2) Analysis of data on mobility in retail and entertainment facilities at the voivodeship level: Dynamic cartogram built using geojson library.
 
-## Exemplary plots 
+## Frames from dynamic cartogram:
 
 #### Percentage point change from the baselevel in mobility in retail sector (peak of infections in 2020):
 ![newplot (4)](https://github.com/jjfrackowiak/COVID-Mobility-Poland/assets/84077365/5890eea0-9e81-4c64-a515-33699da9e901)
