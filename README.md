@@ -11,7 +11,7 @@ Repository contains following elements:
     - 'Google_all.csv' file can be downloaded from https://www.google.com/covid19/mobility/ and is unneccesary to create dynamic cartogram
       
 
-## Mobility-related data sources
+## Contents of 'data' folder
 1) Files of structure '*PL_Mobility.csv' containing obility statistics for three years of pandemics reported by Polish regulators
 2) 'Stay-at-home_covid.csv' containing information about imposed restrictions rigidity (source: https://ourworldindata.org/covid-stay-home-restrictions)
 3) 'WHO-COVID.csv file' containing statistics on the course of the pandemic (number of new cases, number of deaths)
