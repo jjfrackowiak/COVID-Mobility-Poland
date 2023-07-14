@@ -1,6 +1,6 @@
 ## COVID-Mobility-Poland
 
-Project prepared for Data Driven Reasearch - part of Digital Economy Education path co-organised by Warsaw Faculty of Economics and Google.
+Project prepared for Data Driven Reasearch - part of Digital Economy Education path co-organised by Warsaw Faculty of Economics and Google.<br />
 Subject: Visualisation &amp; analysis of both global and region-specific trends in mobility during COVID-19 in Poland
 
 Repository contains 3 elements: utilised Python code, .pdf report with visualisations and dynamic cartogram marking changes in mobility in retail sector on regional level.
@@ -11,7 +11,7 @@ Repository contains 3 elements: utilised Python code, .pdf report with visualisa
 4) Stay-at-home_covid (source: https://ourworldindata.org/covid-stay-home-restrictions)
 5) WHO-COVID showing statistics on the course of the pandemic (number of new cases, number of deaths)
 
-Google lists mobility statistics in 6 areas: trade and recreation, grocery stores and pharmacies, parks, stations and stops, workplaces and places of residence. We assumed that the analysis of the first area will be the most interesting: trade and recreation (hereinafter: retail)
+Google lists mobility statistics in 6 areas: trade and recreation, grocery stores and pharmacies, parks, stations and stops, workplaces and places of residence. We assumed that the analysis of the first area will be the most interesting: trade and recreation
 
 There are two parts to the project:
 1) Analysis of the mutual relations of statistics at the Polish level, extended by an analysis of the relationship between data on infections and the severity of restrictions applied and mobility in shopping and entertainment facilities.
