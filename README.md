@@ -6,7 +6,7 @@ Subject: Visualisation &amp; analysis of global and region-specific trends in mo
 Repository contains following elements: 
 - notebook with analysis and visualisations
 - notebook creating dynamic cartogram marking changes in mobility in retail sector on regional level
-- PDF report with visualisations and analysis
+- PDF report with visualisations and analysis (in Polish)
 - data folder storing all data files except for sizeable 'Google_all.csv'
     - 'Google_all.csv' file can be downloaded from https://www.google.com/covid19/mobility/ and is unneccesary to create dynamic cartogram
       
